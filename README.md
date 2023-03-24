@@ -1,7 +1,7 @@
 # Learning-git-branching
 ### Francisco Ogando (2021-0160)
 
-[enlace a la evidencia fotagráfica][Evidencia 2021-0160]: Evidencia 2021-0160.pdf
+[Link](https://miucateciedu-my.sharepoint.com/personal/20210160_miucateci_edu_do/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F20210160%5Fmiucateci%5Fedu%5Fdo%2FDocuments%2FAn%C3%A1lisis%20de%20sist%2FEvidencia%202021%2D0160%2Epdf&parent=%2Fpersonal%2F20210160%5Fmiucateci%5Fedu%5Fdo%2FDocuments%2FAn%C3%A1lisis%20de%20sist)
 
 Learning Git branching me pareció un juego muy interactivo diseñado para ayudar a los usuarios cómo yo a aprender y comprender los conceptos básicos de Git y cómo funcionan las ramificaciones en Git. El juego consta de varios niveles, cada uno de los cuales se centra en un aspecto diferente del control de versiones y las ramificaciones en Git.
 
